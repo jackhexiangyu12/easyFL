@@ -1,5 +1,6 @@
 import utils.fflow as flw
 import ujson
+import cv2
 
 def main():
     # read options
