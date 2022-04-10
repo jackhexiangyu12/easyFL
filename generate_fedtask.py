@@ -15,7 +15,7 @@ if __name__ == '__main__':
     # mnist_niid_gen.generate()
 
     # # generating the dataset of cifar10-iid of 100 clients
-    # cifar10_iid_gen = CIFAR10_TaskGenerator(dist=0, num_clients=100, beta=0)
+    # cifar10_iid_gen = CIFAR10_TaskGenerator(dist=0, num_clients=100, beta=10)
     # cifar10_iid_gen.generate()
 
     # # generating the dataset of cifar10-niid of 100 clients
